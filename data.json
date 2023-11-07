@@ -1,0 +1,1202 @@
+[
+    {
+        "tipo_de_produto": "bebidas",
+        "produto": "guaravita",
+        "valor": 2,
+        "data_da_venda": "22/06/2023"
+    },
+    {
+        "tipo_de_produto": "bebidas",
+        "produto": "amstel",
+        "valor": 11,
+        "data_da_venda": "27/06/2023"
+    },
+    {
+        "tipo_de_produto": "hamburguers",
+        "produto": "x-bacon",
+        "valor": 12,
+        "data_da_venda": "28/06/2023"
+    },
+    {
+        "tipo_de_produto": "tapiocas",
+        "produto": "ovo",
+        "valor": 12,
+        "data_da_venda": "22/06/2023"
+    },
+    {
+        "tipo_de_produto": "hamburguers",
+        "produto": "x-gord\u00e3o",
+        "valor": 22,
+        "data_da_venda": "21/06/2023"
+    },
+    {
+        "tipo_de_produto": "tapiocas",
+        "produto": "carne seca c/catupiry",
+        "valor": 15,
+        "data_da_venda": "28/06/2023"
+    },
+    {
+        "tipo_de_produto": "hamburguers",
+        "produto": "simples",
+        "valor": 10,
+        "data_da_venda": "21/06/2023"
+    },
+    {
+        "tipo_de_produto": "hamburguers",
+        "produto": "x-gord\u00e3o",
+        "valor": 22,
+        "data_da_venda": "27/06/2023"
+    },
+    {
+        "tipo_de_produto": "bebidas",
+        "produto": "agua 2l",
+        "valor": 6,
+        "data_da_venda": "20/06/2023"
+    },
+    {
+        "tipo_de_produto": "bebidas",
+        "produto": "guaraviton",
+        "valor": 6,
+        "data_da_venda": "24/06/2023"
+    },
+    {
+        "tipo_de_produto": "hamburguers",
+        "produto": "x-lingui\u00e7a",
+        "valor": 12,
+        "data_da_venda": "28/06/2023"
+    },
+    {
+        "tipo_de_produto": "bebidas",
+        "produto": "heineken",
+        "valor": 11,
+        "data_da_venda": "20/06/2023"
+    },
+    {
+        "tipo_de_produto": "hamburguers",
+        "produto": "x-tudo",
+        "valor": 15,
+        "data_da_venda": "24/06/2023"
+    },
+    {
+        "tipo_de_produto": "bebidas",
+        "produto": "guaraviton",
+        "valor": 6,
+        "data_da_venda": "27/06/2023"
+    },
+    {
+        "tipo_de_produto": "tapiocas",
+        "produto": "banana",
+        "valor": 15,
+        "data_da_venda": "23/06/2023"
+    },
+    {
+        "tipo_de_produto": "bebidas",
+        "produto": "heineken",
+        "valor": 11,
+        "data_da_venda": "26/06/2023"
+    },
+    {
+        "tipo_de_produto": "tapiocas",
+        "produto": "frango",
+        "valor": 13,
+        "data_da_venda": "20/06/2023"
+    },
+    {
+        "tipo_de_produto": "hamburguers",
+        "produto": "simples",
+        "valor": 10,
+        "data_da_venda": "23/06/2023"
+    },
+    {
+        "tipo_de_produto": "bebidas",
+        "produto": "guaraviton",
+        "valor": 6,
+        "data_da_venda": "22/06/2023"
+    },
+    {
+        "tipo_de_produto": "hamburguers",
+        "produto": "x-lingui\u00e7a",
+        "valor": 12,
+        "data_da_venda": "25/06/2023"
+    },
+    {
+        "tipo_de_produto": "bebidas",
+        "produto": "agua garrafinha",
+        "valor": 4,
+        "data_da_venda": "23/06/2023"
+    },
+    {
+        "tipo_de_produto": "tapiocas",
+        "produto": "ovo",
+        "valor": 12,
+        "data_da_venda": "20/06/2023"
+    },
+    {
+        "tipo_de_produto": "tapiocas",
+        "produto": "ovo",
+        "valor": 12,
+        "data_da_venda": "22/06/2023"
+    },
+    {
+        "tipo_de_produto": "hamburguers",
+        "produto": "x-salada",
+        "valor": 11,
+        "data_da_venda": "22/06/2023"
+    },
+    {
+        "tipo_de_produto": "tapiocas",
+        "produto": "banana",
+        "valor": 15,
+        "data_da_venda": "21/06/2023"
+    },
+    {
+        "tipo_de_produto": "bebidas",
+        "produto": "guaraviton",
+        "valor": 6,
+        "data_da_venda": "26/06/2023"
+    },
+    {
+        "tipo_de_produto": "bebidas",
+        "produto": "agua garrafinha",
+        "valor": 4,
+        "data_da_venda": "26/06/2023"
+    },
+    {
+        "tipo_de_produto": "hamburguers",
+        "produto": "x-egg",
+        "valor": 11,
+        "data_da_venda": "25/06/2023"
+    },
+    {
+        "tipo_de_produto": "tapiocas",
+        "produto": "carne seca",
+        "valor": 14,
+        "data_da_venda": "22/06/2023"
+    },
+    {
+        "tipo_de_produto": "hamburguers",
+        "produto": "x-gordinho",
+        "valor": 14,
+        "data_da_venda": "26/06/2023"
+    },
+    {
+        "tipo_de_produto": "tapiocas",
+        "produto": "frango",
+        "valor": 13,
+        "data_da_venda": "25/06/2023"
+    },
+    {
+        "tipo_de_produto": "bebidas",
+        "produto": "agua garrafinha",
+        "valor": 4,
+        "data_da_venda": "29/06/2023"
+    },
+    {
+        "tipo_de_produto": "hamburguers",
+        "produto": "x-lingui\u00e7a",
+        "valor": 12,
+        "data_da_venda": "22/06/2023"
+    },
+    {
+        "tipo_de_produto": "bebidas",
+        "produto": "guaraviton",
+        "valor": 6,
+        "data_da_venda": "20/06/2023"
+    },
+    {
+        "tipo_de_produto": "hamburguers",
+        "produto": "x-gordinho",
+        "valor": 14,
+        "data_da_venda": "23/06/2023"
+    },
+    {
+        "tipo_de_produto": "bebidas",
+        "produto": "agua garrafinha",
+        "valor": 4,
+        "data_da_venda": "23/06/2023"
+    },
+    {
+        "tipo_de_produto": "bebidas",
+        "produto": "brahma",
+        "valor": 8,
+        "data_da_venda": "23/06/2023"
+    },
+    {
+        "tipo_de_produto": "tapiocas",
+        "produto": "frango c/catupiry",
+        "valor": 14,
+        "data_da_venda": "24/06/2023"
+    },
+    {
+        "tipo_de_produto": "bebidas",
+        "produto": "brahma",
+        "valor": 8,
+        "data_da_venda": "25/06/2023"
+    },
+    {
+        "tipo_de_produto": "tapiocas",
+        "produto": "frango c/catupiry",
+        "valor": 14,
+        "data_da_venda": "20/06/2023"
+    },
+    {
+        "tipo_de_produto": "hamburguers",
+        "produto": "simples",
+        "valor": 10,
+        "data_da_venda": "25/06/2023"
+    },
+    {
+        "tipo_de_produto": "hamburguers",
+        "produto": "x-tudo",
+        "valor": 15,
+        "data_da_venda": "23/06/2023"
+    },
+    {
+        "tipo_de_produto": "hamburguers",
+        "produto": "simples",
+        "valor": 10,
+        "data_da_venda": "27/06/2023"
+    },
+    {
+        "tipo_de_produto": "tapiocas",
+        "produto": "queijo com presunto",
+        "valor": 12,
+        "data_da_venda": "21/06/2023"
+    },
+    {
+        "tipo_de_produto": "hamburguers",
+        "produto": "x-gordinho",
+        "valor": 14,
+        "data_da_venda": "23/06/2023"
+    },
+    {
+        "tipo_de_produto": "bebidas",
+        "produto": "guaravita",
+        "valor": 2,
+        "data_da_venda": "27/06/2023"
+    },
+    {
+        "tipo_de_produto": "hamburguers",
+        "produto": "simples",
+        "valor": 10,
+        "data_da_venda": "26/06/2023"
+    },
+    {
+        "tipo_de_produto": "tapiocas",
+        "produto": "carne seca c/catupiry",
+        "valor": 15,
+        "data_da_venda": "23/06/2023"
+    },
+    {
+        "tipo_de_produto": "tapiocas",
+        "produto": "carne seca",
+        "valor": 14,
+        "data_da_venda": "28/06/2023"
+    },
+    {
+        "tipo_de_produto": "bebidas",
+        "produto": "amstel",
+        "valor": 11,
+        "data_da_venda": "28/06/2023"
+    },
+    {
+        "tipo_de_produto": "hamburguers",
+        "produto": "x-gordinho",
+        "valor": 14,
+        "data_da_venda": "20/06/2023"
+    },
+    {
+        "tipo_de_produto": "hamburguers",
+        "produto": "x-egg",
+        "valor": 11,
+        "data_da_venda": "23/06/2023"
+    },
+    {
+        "tipo_de_produto": "hamburguers",
+        "produto": "x-gordinho",
+        "valor": 14,
+        "data_da_venda": "20/06/2023"
+    },
+    {
+        "tipo_de_produto": "bebidas",
+        "produto": "agua garrafinha",
+        "valor": 4,
+        "data_da_venda": "24/06/2023"
+    },
+    {
+        "tipo_de_produto": "tapiocas",
+        "produto": "queijo com presunto",
+        "valor": 12,
+        "data_da_venda": "21/06/2023"
+    },
+    {
+        "tipo_de_produto": "hamburguers",
+        "produto": "x-lingui\u00e7a",
+        "valor": 12,
+        "data_da_venda": "23/06/2023"
+    },
+    {
+        "tipo_de_produto": "hamburguers",
+        "produto": "x-salada",
+        "valor": 11,
+        "data_da_venda": "21/06/2023"
+    },
+    {
+        "tipo_de_produto": "tapiocas",
+        "produto": "ovo",
+        "valor": 12,
+        "data_da_venda": "23/06/2023"
+    },
+    {
+        "tipo_de_produto": "hamburguers",
+        "produto": "x-gordinho",
+        "valor": 14,
+        "data_da_venda": "20/06/2023"
+    },
+    {
+        "tipo_de_produto": "hamburguers",
+        "produto": "simples",
+        "valor": 10,
+        "data_da_venda": "22/06/2023"
+    },
+    {
+        "tipo_de_produto": "tapiocas",
+        "produto": "frango c/catupiry",
+        "valor": 14,
+        "data_da_venda": "28/06/2023"
+    },
+    {
+        "tipo_de_produto": "bebidas",
+        "produto": "agua 2l",
+        "valor": 6,
+        "data_da_venda": "20/06/2023"
+    },
+    {
+        "tipo_de_produto": "tapiocas",
+        "produto": "frango",
+        "valor": 13,
+        "data_da_venda": "28/06/2023"
+    },
+    {
+        "tipo_de_produto": "tapiocas",
+        "produto": "calabresa",
+        "valor": 12,
+        "data_da_venda": "20/06/2023"
+    },
+    {
+        "tipo_de_produto": "hamburguers",
+        "produto": "x-egg",
+        "valor": 11,
+        "data_da_venda": "26/06/2023"
+    },
+    {
+        "tipo_de_produto": "hamburguers",
+        "produto": "x-bacon",
+        "valor": 12,
+        "data_da_venda": "27/06/2023"
+    },
+    {
+        "tipo_de_produto": "tapiocas",
+        "produto": "banana",
+        "valor": 15,
+        "data_da_venda": "27/06/2023"
+    },
+    {
+        "tipo_de_produto": "hamburguers",
+        "produto": "simples",
+        "valor": 10,
+        "data_da_venda": "23/06/2023"
+    },
+    {
+        "tipo_de_produto": "hamburguers",
+        "produto": "x-gordinho",
+        "valor": 14,
+        "data_da_venda": "27/06/2023"
+    },
+    {
+        "tipo_de_produto": "tapiocas",
+        "produto": "carne seca",
+        "valor": 14,
+        "data_da_venda": "25/06/2023"
+    },
+    {
+        "tipo_de_produto": "tapiocas",
+        "produto": "frango c/catupiry",
+        "valor": 14,
+        "data_da_venda": "28/06/2023"
+    },
+    {
+        "tipo_de_produto": "tapiocas",
+        "produto": "calabresa",
+        "valor": 12,
+        "data_da_venda": "27/06/2023"
+    },
+    {
+        "tipo_de_produto": "hamburguers",
+        "produto": "x-salada",
+        "valor": 11,
+        "data_da_venda": "29/06/2023"
+    },
+    {
+        "tipo_de_produto": "hamburguers",
+        "produto": "simples",
+        "valor": 10,
+        "data_da_venda": "26/06/2023"
+    },
+    {
+        "tipo_de_produto": "bebidas",
+        "produto": "agua 2l",
+        "valor": 6,
+        "data_da_venda": "27/06/2023"
+    },
+    {
+        "tipo_de_produto": "bebidas",
+        "produto": "brahma",
+        "valor": 8,
+        "data_da_venda": "22/06/2023"
+    },
+    {
+        "tipo_de_produto": "tapiocas",
+        "produto": "ovo",
+        "valor": 12,
+        "data_da_venda": "23/06/2023"
+    },
+    {
+        "tipo_de_produto": "tapiocas",
+        "produto": "carne seca",
+        "valor": 14,
+        "data_da_venda": "28/06/2023"
+    },
+    {
+        "tipo_de_produto": "bebidas",
+        "produto": "brahma",
+        "valor": 8,
+        "data_da_venda": "21/06/2023"
+    },
+    {
+        "tipo_de_produto": "bebidas",
+        "produto": "brahma",
+        "valor": 8,
+        "data_da_venda": "24/06/2023"
+    },
+    {
+        "tipo_de_produto": "hamburguers",
+        "produto": "x-gord\u00e3o",
+        "valor": 22,
+        "data_da_venda": "28/06/2023"
+    },
+    {
+        "tipo_de_produto": "tapiocas",
+        "produto": "chocolate",
+        "valor": 15,
+        "data_da_venda": "25/06/2023"
+    },
+    {
+        "tipo_de_produto": "bebidas",
+        "produto": "guaraviton",
+        "valor": 6,
+        "data_da_venda": "23/06/2023"
+    },
+    {
+        "tipo_de_produto": "tapiocas",
+        "produto": "frango",
+        "valor": 13,
+        "data_da_venda": "24/06/2023"
+    },
+    {
+        "tipo_de_produto": "bebidas",
+        "produto": "heineken",
+        "valor": 11,
+        "data_da_venda": "26/06/2023"
+    },
+    {
+        "tipo_de_produto": "bebidas",
+        "produto": "guaraviton",
+        "valor": 6,
+        "data_da_venda": "27/06/2023"
+    },
+    {
+        "tipo_de_produto": "tapiocas",
+        "produto": "calabresa",
+        "valor": 12,
+        "data_da_venda": "22/06/2023"
+    },
+    {
+        "tipo_de_produto": "tapiocas",
+        "produto": "ovo",
+        "valor": 12,
+        "data_da_venda": "26/06/2023"
+    },
+    {
+        "tipo_de_produto": "bebidas",
+        "produto": "agua 2l",
+        "valor": 6,
+        "data_da_venda": "22/06/2023"
+    },
+    {
+        "tipo_de_produto": "hamburguers",
+        "produto": "x-gordinho",
+        "valor": 14,
+        "data_da_venda": "23/06/2023"
+    },
+    {
+        "tipo_de_produto": "tapiocas",
+        "produto": "frango",
+        "valor": 13,
+        "data_da_venda": "20/06/2023"
+    },
+    {
+        "tipo_de_produto": "hamburguers",
+        "produto": "x-salada",
+        "valor": 11,
+        "data_da_venda": "28/06/2023"
+    },
+    {
+        "tipo_de_produto": "bebidas",
+        "produto": "amstel",
+        "valor": 11,
+        "data_da_venda": "21/06/2023"
+    },
+    {
+        "tipo_de_produto": "bebidas",
+        "produto": "guaraviton",
+        "valor": 6,
+        "data_da_venda": "25/06/2023"
+    },
+    {
+        "tipo_de_produto": "tapiocas",
+        "produto": "carne seca",
+        "valor": 14,
+        "data_da_venda": "22/06/2023"
+    },
+    {
+        "tipo_de_produto": "hamburguers",
+        "produto": "x-gord\u00e3o",
+        "valor": 22,
+        "data_da_venda": "21/06/2023"
+    },
+    {
+        "tipo_de_produto": "bebidas",
+        "produto": "brahma",
+        "valor": 8,
+        "data_da_venda": "21/06/2023"
+    },
+    {
+        "tipo_de_produto": "hamburguers",
+        "produto": "simples",
+        "valor": 10,
+        "data_da_venda": "24/06/2023"
+    },
+    {
+        "tipo_de_produto": "bebidas",
+        "produto": "guaraviton",
+        "valor": 6,
+        "data_da_venda": "26/06/2023"
+    },
+    {
+        "tipo_de_produto": "hamburguers",
+        "produto": "simples",
+        "valor": 10,
+        "data_da_venda": "29/06/2023"
+    },
+    {
+        "tipo_de_produto": "tapiocas",
+        "produto": "calabresa",
+        "valor": 12,
+        "data_da_venda": "22/06/2023"
+    },
+    {
+        "tipo_de_produto": "bebidas",
+        "produto": "agua 2l",
+        "valor": 6,
+        "data_da_venda": "24/06/2023"
+    },
+    {
+        "tipo_de_produto": "bebidas",
+        "produto": "agua garrafinha",
+        "valor": 4,
+        "data_da_venda": "29/06/2023"
+    },
+    {
+        "tipo_de_produto": "hamburguers",
+        "produto": "simples",
+        "valor": 10,
+        "data_da_venda": "23/06/2023"
+    },
+    {
+        "tipo_de_produto": "hamburguers",
+        "produto": "x-bacon",
+        "valor": 12,
+        "data_da_venda": "21/06/2023"
+    },
+    {
+        "tipo_de_produto": "hamburguers",
+        "produto": "x-tudo",
+        "valor": 15,
+        "data_da_venda": "27/06/2023"
+    },
+    {
+        "tipo_de_produto": "hamburguers",
+        "produto": "simples",
+        "valor": 10,
+        "data_da_venda": "29/06/2023"
+    },
+    {
+        "tipo_de_produto": "tapiocas",
+        "produto": "chocolate",
+        "valor": 15,
+        "data_da_venda": "22/06/2023"
+    },
+    {
+        "tipo_de_produto": "hamburguers",
+        "produto": "x-salada",
+        "valor": 11,
+        "data_da_venda": "22/06/2023"
+    },
+    {
+        "tipo_de_produto": "tapiocas",
+        "produto": "frango c/catupiry",
+        "valor": 14,
+        "data_da_venda": "21/06/2023"
+    },
+    {
+        "tipo_de_produto": "tapiocas",
+        "produto": "carne seca",
+        "valor": 14,
+        "data_da_venda": "28/06/2023"
+    },
+    {
+        "tipo_de_produto": "hamburguers",
+        "produto": "x-tudo",
+        "valor": 15,
+        "data_da_venda": "21/06/2023"
+    },
+    {
+        "tipo_de_produto": "tapiocas",
+        "produto": "carne seca",
+        "valor": 14,
+        "data_da_venda": "27/06/2023"
+    },
+    {
+        "tipo_de_produto": "bebidas",
+        "produto": "guaravita",
+        "valor": 2,
+        "data_da_venda": "21/06/2023"
+    },
+    {
+        "tipo_de_produto": "tapiocas",
+        "produto": "carne seca",
+        "valor": 14,
+        "data_da_venda": "20/06/2023"
+    },
+    {
+        "tipo_de_produto": "bebidas",
+        "produto": "guaraviton",
+        "valor": 6,
+        "data_da_venda": "23/06/2023"
+    },
+    {
+        "tipo_de_produto": "hamburguers",
+        "produto": "x-gordinho",
+        "valor": 14,
+        "data_da_venda": "21/06/2023"
+    },
+    {
+        "tipo_de_produto": "hamburguers",
+        "produto": "x-lingui\u00e7a",
+        "valor": 12,
+        "data_da_venda": "25/06/2023"
+    },
+    {
+        "tipo_de_produto": "hamburguers",
+        "produto": "x-lingui\u00e7a",
+        "valor": 12,
+        "data_da_venda": "28/06/2023"
+    },
+    {
+        "tipo_de_produto": "tapiocas",
+        "produto": "chocolate",
+        "valor": 15,
+        "data_da_venda": "25/06/2023"
+    },
+    {
+        "tipo_de_produto": "bebidas",
+        "produto": "heineken",
+        "valor": 11,
+        "data_da_venda": "25/06/2023"
+    },
+    {
+        "tipo_de_produto": "bebidas",
+        "produto": "guaraviton",
+        "valor": 6,
+        "data_da_venda": "20/06/2023"
+    },
+    {
+        "tipo_de_produto": "tapiocas",
+        "produto": "bacon",
+        "valor": 13,
+        "data_da_venda": "24/06/2023"
+    },
+    {
+        "tipo_de_produto": "hamburguers",
+        "produto": "x-gordinho",
+        "valor": 14,
+        "data_da_venda": "26/06/2023"
+    },
+    {
+        "tipo_de_produto": "hamburguers",
+        "produto": "x-tudo",
+        "valor": 15,
+        "data_da_venda": "25/06/2023"
+    },
+    {
+        "tipo_de_produto": "bebidas",
+        "produto": "guaraviton",
+        "valor": 6,
+        "data_da_venda": "27/06/2023"
+    },
+    {
+        "tipo_de_produto": "tapiocas",
+        "produto": "queijo com presunto",
+        "valor": 12,
+        "data_da_venda": "29/06/2023"
+    },
+    {
+        "tipo_de_produto": "bebidas",
+        "produto": "heineken",
+        "valor": 11,
+        "data_da_venda": "27/06/2023"
+    },
+    {
+        "tipo_de_produto": "hamburguers",
+        "produto": "x-tudo",
+        "valor": 15,
+        "data_da_venda": "21/06/2023"
+    },
+    {
+        "tipo_de_produto": "bebidas",
+        "produto": "agua 2l",
+        "valor": 6,
+        "data_da_venda": "21/06/2023"
+    },
+    {
+        "tipo_de_produto": "tapiocas",
+        "produto": "frango",
+        "valor": 13,
+        "data_da_venda": "28/06/2023"
+    },
+    {
+        "tipo_de_produto": "bebidas",
+        "produto": "guaravita",
+        "valor": 2,
+        "data_da_venda": "23/06/2023"
+    },
+    {
+        "tipo_de_produto": "hamburguers",
+        "produto": "x-egg",
+        "valor": 11,
+        "data_da_venda": "21/06/2023"
+    },
+    {
+        "tipo_de_produto": "tapiocas",
+        "produto": "banana",
+        "valor": 15,
+        "data_da_venda": "25/06/2023"
+    },
+    {
+        "tipo_de_produto": "tapiocas",
+        "produto": "calabresa",
+        "valor": 12,
+        "data_da_venda": "20/06/2023"
+    },
+    {
+        "tipo_de_produto": "bebidas",
+        "produto": "guaraviton",
+        "valor": 6,
+        "data_da_venda": "20/06/2023"
+    },
+    {
+        "tipo_de_produto": "hamburguers",
+        "produto": "x-egg",
+        "valor": 11,
+        "data_da_venda": "28/06/2023"
+    },
+    {
+        "tipo_de_produto": "bebidas",
+        "produto": "guaraviton",
+        "valor": 6,
+        "data_da_venda": "28/06/2023"
+    },
+    {
+        "tipo_de_produto": "bebidas",
+        "produto": "agua garrafinha",
+        "valor": 4,
+        "data_da_venda": "25/06/2023"
+    },
+    {
+        "tipo_de_produto": "bebidas",
+        "produto": "guaravita",
+        "valor": 2,
+        "data_da_venda": "25/06/2023"
+    },
+    {
+        "tipo_de_produto": "bebidas",
+        "produto": "brahma",
+        "valor": 8,
+        "data_da_venda": "21/06/2023"
+    },
+    {
+        "tipo_de_produto": "tapiocas",
+        "produto": "frango",
+        "valor": 13,
+        "data_da_venda": "25/06/2023"
+    },
+    {
+        "tipo_de_produto": "bebidas",
+        "produto": "guaraviton",
+        "valor": 6,
+        "data_da_venda": "26/06/2023"
+    },
+    {
+        "tipo_de_produto": "bebidas",
+        "produto": "amstel",
+        "valor": 11,
+        "data_da_venda": "24/06/2023"
+    },
+    {
+        "tipo_de_produto": "tapiocas",
+        "produto": "queijo com presunto",
+        "valor": 12,
+        "data_da_venda": "20/06/2023"
+    },
+    {
+        "tipo_de_produto": "hamburguers",
+        "produto": "x-egg",
+        "valor": 11,
+        "data_da_venda": "26/06/2023"
+    },
+    {
+        "tipo_de_produto": "hamburguers",
+        "produto": "x-lingui\u00e7a",
+        "valor": 12,
+        "data_da_venda": "28/06/2023"
+    },
+    {
+        "tipo_de_produto": "bebidas",
+        "produto": "agua 2l",
+        "valor": 6,
+        "data_da_venda": "24/06/2023"
+    },
+    {
+        "tipo_de_produto": "hamburguers",
+        "produto": "x-gord\u00e3o",
+        "valor": 22,
+        "data_da_venda": "28/06/2023"
+    },
+    {
+        "tipo_de_produto": "hamburguers",
+        "produto": "x-gordinho",
+        "valor": 14,
+        "data_da_venda": "21/06/2023"
+    },
+    {
+        "tipo_de_produto": "bebidas",
+        "produto": "guaraviton",
+        "valor": 6,
+        "data_da_venda": "23/06/2023"
+    },
+    {
+        "tipo_de_produto": "tapiocas",
+        "produto": "carne seca c/catupiry",
+        "valor": 15,
+        "data_da_venda": "21/06/2023"
+    },
+    {
+        "tipo_de_produto": "hamburguers",
+        "produto": "x-gordinho",
+        "valor": 14,
+        "data_da_venda": "29/06/2023"
+    },
+    {
+        "tipo_de_produto": "bebidas",
+        "produto": "agua garrafinha",
+        "valor": 4,
+        "data_da_venda": "24/06/2023"
+    },
+    {
+        "tipo_de_produto": "tapiocas",
+        "produto": "chocolate",
+        "valor": 15,
+        "data_da_venda": "26/06/2023"
+    },
+    {
+        "tipo_de_produto": "hamburguers",
+        "produto": "x-gord\u00e3o",
+        "valor": 22,
+        "data_da_venda": "23/06/2023"
+    },
+    {
+        "tipo_de_produto": "hamburguers",
+        "produto": "x-bacon",
+        "valor": 12,
+        "data_da_venda": "21/06/2023"
+    },
+    {
+        "tipo_de_produto": "bebidas",
+        "produto": "guaravita",
+        "valor": 2,
+        "data_da_venda": "27/06/2023"
+    },
+    {
+        "tipo_de_produto": "tapiocas",
+        "produto": "carne seca c/catupiry",
+        "valor": 15,
+        "data_da_venda": "28/06/2023"
+    },
+    {
+        "tipo_de_produto": "bebidas",
+        "produto": "guaraviton",
+        "valor": 6,
+        "data_da_venda": "24/06/2023"
+    },
+    {
+        "tipo_de_produto": "hamburguers",
+        "produto": "x-bacon",
+        "valor": 12,
+        "data_da_venda": "26/06/2023"
+    },
+    {
+        "tipo_de_produto": "hamburguers",
+        "produto": "x-tudo",
+        "valor": 15,
+        "data_da_venda": "23/06/2023"
+    },
+    {
+        "tipo_de_produto": "bebidas",
+        "produto": "heineken",
+        "valor": 11,
+        "data_da_venda": "21/06/2023"
+    },
+    {
+        "tipo_de_produto": "hamburguers",
+        "produto": "x-lingui\u00e7a",
+        "valor": 12,
+        "data_da_venda": "23/06/2023"
+    },
+    {
+        "tipo_de_produto": "hamburguers",
+        "produto": "x-tudo",
+        "valor": 15,
+        "data_da_venda": "22/06/2023"
+    },
+    {
+        "tipo_de_produto": "bebidas",
+        "produto": "amstel",
+        "valor": 11,
+        "data_da_venda": "27/06/2023"
+    },
+    {
+        "tipo_de_produto": "tapiocas",
+        "produto": "carne seca c/catupiry",
+        "valor": 15,
+        "data_da_venda": "26/06/2023"
+    },
+    {
+        "tipo_de_produto": "bebidas",
+        "produto": "amstel",
+        "valor": 11,
+        "data_da_venda": "28/06/2023"
+    },
+    {
+        "tipo_de_produto": "hamburguers",
+        "produto": "simples",
+        "valor": 10,
+        "data_da_venda": "22/06/2023"
+    },
+    {
+        "tipo_de_produto": "hamburguers",
+        "produto": "x-egg",
+        "valor": 11,
+        "data_da_venda": "26/06/2023"
+    },
+    {
+        "tipo_de_produto": "bebidas",
+        "produto": "agua garrafinha",
+        "valor": 4,
+        "data_da_venda": "26/06/2023"
+    },
+    {
+        "tipo_de_produto": "tapiocas",
+        "produto": "chocolate",
+        "valor": 15,
+        "data_da_venda": "20/06/2023"
+    },
+    {
+        "tipo_de_produto": "hamburguers",
+        "produto": "x-tudo",
+        "valor": 15,
+        "data_da_venda": "20/06/2023"
+    },
+    {
+        "tipo_de_produto": "bebidas",
+        "produto": "agua 2l",
+        "valor": 6,
+        "data_da_venda": "25/06/2023"
+    },
+    {
+        "tipo_de_produto": "hamburguers",
+        "produto": "x-salada",
+        "valor": 11,
+        "data_da_venda": "28/06/2023"
+    },
+    {
+        "tipo_de_produto": "bebidas",
+        "produto": "agua 2l",
+        "valor": 6,
+        "data_da_venda": "29/06/2023"
+    },
+    {
+        "tipo_de_produto": "tapiocas",
+        "produto": "banana",
+        "valor": 15,
+        "data_da_venda": "21/06/2023"
+    },
+    {
+        "tipo_de_produto": "tapiocas",
+        "produto": "calabresa",
+        "valor": 12,
+        "data_da_venda": "21/06/2023"
+    },
+    {
+        "tipo_de_produto": "bebidas",
+        "produto": "guaraviton",
+        "valor": 6,
+        "data_da_venda": "25/06/2023"
+    },
+    {
+        "tipo_de_produto": "hamburguers",
+        "produto": "x-tudo",
+        "valor": 15,
+        "data_da_venda": "23/06/2023"
+    },
+    {
+        "tipo_de_produto": "bebidas",
+        "produto": "heineken",
+        "valor": 11,
+        "data_da_venda": "22/06/2023"
+    },
+    {
+        "tipo_de_produto": "bebidas",
+        "produto": "guaravita",
+        "valor": 2,
+        "data_da_venda": "22/06/2023"
+    },
+    {
+        "tipo_de_produto": "tapiocas",
+        "produto": "frango",
+        "valor": 13,
+        "data_da_venda": "24/06/2023"
+    },
+    {
+        "tipo_de_produto": "tapiocas",
+        "produto": "calabresa",
+        "valor": 12,
+        "data_da_venda": "29/06/2023"
+    },
+    {
+        "tipo_de_produto": "tapiocas",
+        "produto": "carne seca",
+        "valor": 14,
+        "data_da_venda": "28/06/2023"
+    },
+    {
+        "tipo_de_produto": "hamburguers",
+        "produto": "x-tudo",
+        "valor": 15,
+        "data_da_venda": "27/06/2023"
+    },
+    {
+        "tipo_de_produto": "bebidas",
+        "produto": "guaraviton",
+        "valor": 6,
+        "data_da_venda": "29/06/2023"
+    },
+    {
+        "tipo_de_produto": "hamburguers",
+        "produto": "x-gordinho",
+        "valor": 14,
+        "data_da_venda": "27/06/2023"
+    },
+    {
+        "tipo_de_produto": "hamburguers",
+        "produto": "x-lingui\u00e7a",
+        "valor": 12,
+        "data_da_venda": "24/06/2023"
+    },
+    {
+        "tipo_de_produto": "bebidas",
+        "produto": "guaravita",
+        "valor": 2,
+        "data_da_venda": "23/06/2023"
+    },
+    {
+        "tipo_de_produto": "bebidas",
+        "produto": "heineken",
+        "valor": 11,
+        "data_da_venda": "21/06/2023"
+    },
+    {
+        "tipo_de_produto": "tapiocas",
+        "produto": "carne seca",
+        "valor": 14,
+        "data_da_venda": "24/06/2023"
+    },
+    {
+        "tipo_de_produto": "hamburguers",
+        "produto": "x-gord\u00e3o",
+        "valor": 22,
+        "data_da_venda": "29/06/2023"
+    },
+    {
+        "tipo_de_produto": "hamburguers",
+        "produto": "x-salada",
+        "valor": 11,
+        "data_da_venda": "27/06/2023"
+    },
+    {
+        "tipo_de_produto": "bebidas",
+        "produto": "agua garrafinha",
+        "valor": 4,
+        "data_da_venda": "21/06/2023"
+    },
+    {
+        "tipo_de_produto": "bebidas",
+        "produto": "agua garrafinha",
+        "valor": 4,
+        "data_da_venda": "23/06/2023"
+    },
+    {
+        "tipo_de_produto": "hamburguers",
+        "produto": "x-lingui\u00e7a",
+        "valor": 12,
+        "data_da_venda": "26/06/2023"
+    },
+    {
+        "tipo_de_produto": "bebidas",
+        "produto": "guaraviton",
+        "valor": 6,
+        "data_da_venda": "26/06/2023"
+    },
+    {
+        "tipo_de_produto": "hamburguers",
+        "produto": "x-bacon",
+        "valor": 12,
+        "data_da_venda": "20/06/2023"
+    },
+    {
+        "tipo_de_produto": "bebidas",
+        "produto": "agua garrafinha",
+        "valor": 4,
+        "data_da_venda": "29/06/2023"
+    }
+]
